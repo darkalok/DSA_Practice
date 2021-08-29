@@ -1,5 +1,3 @@
-package com.company;
-
 public class ConsecutiveCharacters_1446 {
     class Solution {
         public int maxPower(String s) {
